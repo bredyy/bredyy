@@ -1,0 +1,4 @@
+论文原文的文件的绝对路径：E:\Code\IDEA\Test_software\src\resource\orig.txt
+抄袭版论文的文件的绝对路径：E:\Code\IDEA\Test_software\src\resource\orig_0.8_del.txt
+输出的答案文件的绝对路径：E:\Code\IDEA\Test_software\src\resource\answer.txt
+查重率：0.87
